@@ -1,3 +1,3 @@
 # flutter_screen_record
 
-A new Flutter project.
+Using Flutter3.24.2
